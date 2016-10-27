@@ -18,7 +18,7 @@ int main() {
 			sensors [i] * weight [i] = pos;
 			pos / 4 = pos; // need to find range , maybe not 4
 		}
-		
+		//x is the sum of the sensors
 		double velocity
 		//input velocity from somewhere
 		
